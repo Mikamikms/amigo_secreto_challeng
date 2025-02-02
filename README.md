@@ -3,6 +3,7 @@
 ## 📌 Descripción
 
 Este proyecto es una aplicación interactiva para organizar un sorteo de "Amigo Secreto". Los usuarios pueden agregar nombres a una lista y luego realizar un sorteo aleatorio para seleccionar al amigo secreto. Una vez realizado el sorteo, la lista se borra automáticamente para permitir un nuevo juego.
+Para poder visualizar por la web puede acceder al siguiente enlace [Mikami-Challeng-Amigo-secreto](https://mikamikms.github.io/amigo_secreto_challeng/)
 
 ## 🚀 Funcionalidades
 
