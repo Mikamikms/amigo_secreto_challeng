@@ -62,5 +62,5 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 
 ## 🎯 Autor
 
-Desarrollado por [Elvis Eneque && ONE x Alura ](https://github.com/Mikamikms).
+Desarrollado por [Elvis Eneque](https://github.com/Mikamikms) y [ONE x Alura](https://www.oracle.com/pe/education/oracle-next-education/).
 
