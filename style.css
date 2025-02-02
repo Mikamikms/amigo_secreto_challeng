@@ -160,3 +160,10 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.name-list{
+    color: blue;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
